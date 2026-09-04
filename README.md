@@ -5,4 +5,4 @@
 - JavaScript
 - Tailwind CSS
 - Git & GitHub
-- PHP
+- python
